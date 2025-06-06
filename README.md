@@ -1,3 +1,6 @@
+This is a modernised ES6 version of the original code from:
+
+
 ![OrgChart](http://dabeng.github.io/OrgChart.js/img/orgchart-heading.png)
 
 # [jQuery version](http://github.com/dabeng/OrgChart)
